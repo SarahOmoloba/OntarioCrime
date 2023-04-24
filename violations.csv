@@ -1,0 +1,314 @@
+﻿violationId,violation,mostSerious,violationTypeId
+1,"Total, all Criminal Code violations (including traffic) [25]",0,
+2,Total Federal Statute violations [400],1,6
+3,"Total, all Criminal Code violations (excluding traffic) [50]",0,
+4,Total Criminal Code traffic violations [900],1,7
+5,Total violent Criminal Code violations [100],0,2
+6,Total property crime violations [200],0,1
+7,Total other Criminal Code violations [300],0,
+8,Homicide [110],1,2
+9,Total other violations causing death [120],1,2
+10,Attempted murder [1210],1,2
+11,"Sexual assault, level 3, aggravated [1310]",1,2
+12,"Sexual assault, level 2, weapon or bodily harm [1320]",1,2
+13,"Sexual assault, level 1 [1330]",0,8
+14,Total sexual violations against children [130],1,2
+15,"Assault, level 3, aggravated [1410]",1,2
+16,"Assault, level 2, weapon or bodily harm [1420]",1,2
+17,"Assault, level 1 [1430]",0,2
+18,Total other assaults [140],0,2
+19,"Total firearms, use of, discharge, pointing [150]",0,2
+20,Total robbery [160],0,2
+21,Total abduction [170],0,2
+22,Extortion [1620],1,5
+23,Criminal harassment [1625],1,2
+24,Uttering threats [1627],1,2
+25,Indecent/Harassing communications [1626],0,5
+26,Total other violent violations [180],0,2
+27,Total assaults against a peace officer [135],0,2
+28,Total forcible confinement or kidnapping [510],0,2
+29,Total offences in relation to sexual services [190],0,2
+30,"Sexual offence which occurred prior to January 4, 1983 [1300]",0,8
+31,"Murder, first degree [1110]",0,2
+32,"Murder, second degree [1120]",0,2
+33,Manslaughter [1130],0,2
+34,Infanticide [1140],0,2
+35,Criminal negligence causing death [1150],0,2
+36,Other related violations causing death [1160],0,2
+37,Sexual interference [1345],0,8
+38,Invitation to sexual touching [1350],0,8
+39,Sexual exploitation [1355],0,8
+40,Luring a child via a computer [1370],0,5
+41,Making sexually explicit material available to children [1367],0,8
+42,Parent or guardian procuring sexual activity: person procured under the age of 16 years [3165],0,8
+43,Parent or guardian procuring sexual activity [1368],0,8
+44,Householder permitting illegal sexual activity: person under the age of 16 years [3167],0,8
+45,Householder permitting prohibited sexual activity [1369],0,8
+46,Agreement or Arrangement - sexual offence against child [1371],0,8
+47,"Bestiality in presence of, or incites, a child [1381]",0,8
+48,Unlawfully causing bodily harm [1440],1,2
+49,Criminal negligence causing bodily harm [1470],1,2
+50,Other assaults [1480],0,2
+51,Discharge firearm with intent [1450],1,2
+52,Using firearm in commission of offence [1455],1,2
+53,Pointing a firearm [1457],1,2
+54,Robbery [1610],1,2
+55,Robbery to steal a firearm [1611],1,2
+56,"Abduction under the age 14, not parent or guardian [1530]",1,2
+57,Abduction under the age 16 [1540],1,2
+58,Removal of children from Canada [1545],1,2
+59,Abduction under the age 14 contravening a custody order [1550],0,2
+60,"Abduction under age 14, by parent or guardian [1560]",0,2
+61,Conspire to commit murder [1220],0,2
+62,Other sexual violations [1340],1,8
+63,Incest [1360],0,8
+64,Corrupting morals of a child [1365],0,2
+65,Anal intercourse [1375],0,8
+66,"Bestiality, commit or compel person [1380]",0,8
+67,Voyeurism [1385],0,8
+68,Trap likely to or causing bodily harm [1475],0,2
+69,Hostage-taking [1520],1,2
+70,Trafficking in persons [1525],1,2
+71,Intimidation of a justice system participant or a journalist [1621],1,4
+72,Intimidation of a non-justice participant [1622],1,4
+73,Explosives causing death or bodily harm [1628],1,2
+74,"Arson, disregard for human life [1629]",1,2
+75,Other violent violations [1630],0,2
+76,Sexual Exploitation of a person with a disability [1356],0,8
+77,Nonconsensual distribution of intimate images [1390],0,8
+78,Failure to comply with mandatory safeguards in relation to medical assistance in dying [1631],0,
+79,Forging or destroying documents related to assistance requests with criminal intent [1632],1,4
+80,Total breaking and entering [210],0,1
+81,Total possession of stolen property [211],1,1
+82,Total theft of motor vehicle [220],1,1
+83,"Total theft over $5,000 (non-motor vehicle) [230]",0,1
+84,"Total theft under $5,000 (non-motor vehicle) [240]",0,1
+85,Fraud [2160],1,5
+86,Total mischief [250],0,6
+87,Arson [2110],1,1
+88,Identity theft [2165],1,4
+89,Identity fraud [2166],1,4
+90,Total trafficking in stolen property [212],1,1
+91,"Altering, removing or destroying Vehicle Identification Number (VIN) [2178]",0,7
+92,Breaking and entering [2120],1,1
+93,Breaking and entering to steal a firearm [2121],1,1
+94,Break and enter to steal a firearm from a motor vehicle [2125],0,1
+95,"Theft over $5,000 [2130]",1,1
+96,"Theft over $5,000 from a motor vehicle [2132]",1,1
+97,"Shoplifting over $5,000 [2133]",1,1
+98,"Theft $5,000 or under [2140]",0,1
+99,"Theft $5,000 or under from a motor vehicle [2142]",1,1
+100,"Shoplifting $5,000 or under [2143]",1,1
+101,Mischief [2170],1,6
+102,Hate-motivated mischief relating to property used by identifiable group [2176],0,6
+103,Mischief in relation to cultural property [2175],0,6
+104,Mischief relating to war memorials [2177],0,6
+105,"Offensive weapons, explosives [3310]",1,2
+106,"Offensive weapons, prohibited [3320]",0,2
+107,"Offensive weapons, restricted [3330]",0,2
+108,Firearm transfers or serial numbers [3340],0,2
+109,Weapons trafficking [3365],1,2
+110,Weapons possession contrary to order [3370],1,2
+111,Possession of weapons [3375],1,2
+112,Unauthorized importing or exporting of weapons [3380],1,2
+113,Firearms documentation or administration [3390],1,4
+114,Unsafe storage of firearms [3395],1,2
+115,Other offensive weapons [3350],0,2
+116,Bawdy house [3110],0,6
+117,Living off the avails of prostitution of a person under age 18 [3115],0,8
+118,Procuring [3120],0,8
+119,Obtains or communicates with a person under age 18 for purpose of sex [3125],0,8
+120,Other prostitution [3130],0,8
+121,Public communication to sell sexual services [3140],1,8
+122,Offences related to impeding traffic to buy or sell sexual services [3141],1,8
+123,Fail to comply with order [3410],1,6
+124,Escape or helps to escape from lawful custody [3440],0,6
+125,Prisoner unlawfully at large [3480],0,6
+126,Fail to appear [3510],1,6
+127,Breach of probation [3520],1,6
+128,Other violations against the administration of law and justice (Part IV Criminal Code) [3730],0,6
+129,Betting house [3210],0,6
+130,Gaming house [3220],0,6
+131,Other violations related to gaming and betting [3230],0,6
+132,Indecent acts [3450],0,8
+133,Corrupting morals [3460],0,8
+134,Obstruct public or peace officer [3470],0,6
+135,Trespass at night [3490],0,6
+136,Utter threats to property or animal [3540],0,2
+137,Advocating genocide [3550],0,2
+138,Public incitement of hatred [3560],0,6
+139,"Unauthorized Recording of a Movie/Purpose of Sale, Rental, Commercial Distribution [3700]",0,6
+140,Offences against public order (Part II Criminal Code) [3710],0,6
+141,Property or service for terrorist activity [3711],1,2
+142,"Freezing of property, disclosure or audit [3712]",1,4
+143,Participate in activity of terrorist group [3713],1,2
+144,Facilitate terrorist activity [3714],1,2
+145,Commission or instructing to carry out terrorist activity [3715],1,2
+146,Harbour or conceal terrorist [3716],1,2
+147,Hoax terrorism [3717],1,2
+148,Firearms and other offensive weapons (Part III Criminal Code) [3720],0,2
+149,"Sexual offences, public morals and disorderly conduct (Part V Criminal Code) [3740]",0,8
+150,Invasion of privacy (Part VI Criminal Code) [3750],0,6
+151,"Disorderly houses, gaming and betting [3760]",0,6
+152,Offences against the person and reputation (Part VIII Criminal Code) [3770],0,6
+153,Offences against rights of property (Part IX Criminal Code) [3780],0,1
+154,Fraudulent transactions relating to contracts and trade (Part X Criminal Code) [3790],1,4
+155,Wilful and forbidden acts in respect of certain property (Part XI Criminal Code) [3810],0,6
+156,Offences relating to currency (Part XII Criminal Code) [3820],0,4
+157,Proceeds of crime (Part XII.2 Criminal Code) [3825],1,4
+158,"Attempts, conspiracies, accessories (Part XIII Criminal Code) [3830]",1,6
+159,Instruct offence for criminal organization [3840],1,2
+160,Commit offence for criminal organization [3841],1,2
+161,Participate in activities of criminal organization [3842],1,2
+162,All other Criminal Code (includes Part XII.1 Criminal Code) [3890],1,2
+163,Leaving Canada to participate in activity of terrorist group [3721],1,2
+164,Leaving Canada to facilitate terrorist activity [3722],1,2
+165,Leaving Canada to commit offence for terrorist group [3723],1,2
+166,Leaving Canada to commit offence that is terrorist activity [3724],1,2
+167,Concealing person who carried out terrorist activity that is a terrorism offence for which that person is liable to imprisonment for life [3725],1,2
+168,Concealing person who carried out terrorist activity that is a terrorism offence for which that person is liable to any punishment other than life [3726],1,2
+169,Concealing person who is likely to carry out terrorist activity [3727],0,2
+170,Recruitment of members by a criminal organization [3843],1,2
+171,Common Bawdy House [3240],0,6
+172,Advocating/Promoting terrorism offence [3718],1,2
+173,Failure to comply with the regulations/obligations for medical assistance in dying [3771],0,6
+174,Total impaired driving [910],0,7
+175,Total other Criminal Code traffic violations [920],0,7
+176,Operation while impaired causing death (alcohol) [9210],0,3
+177,Operation while impaired causing death (drugs) [9215],0,3
+178,Operation while impaired causing bodily harm (alcohol) [9220],1,3
+179,Operation while impaired causing bodily harm (drugs) [9225],1,3
+180,Operation while impaired (alcohol) [9230],0,3
+181,Operation while impaired (drugs) [9235],0,3
+182,"Impaired operation, failure to provide breath sample [9240]",0,7
+183,Failure to comply or refusal (drugs) [9245],0,3
+184,"Impaired operation, failure to provide blood sample [9250]",0,3
+185,Failure to provide blood sample (drugs) [9255],0,3
+186,Operation - low blood drug concentration [9205],0,3
+187,Operation while impaired causing death (alcohol and drugs) [9213],0,3
+188,Operation while impaired causing death (unspecified) [9217],0,3
+189,Operation while impaired causing bodily harm (alcohol and drugs) [9223],1,3
+190,Operation while impaired causing bodily harm (unspecified) [9227],1,3
+191,Operation while impaired (alcohol and drugs) [9233],0,3
+192,Operation while impaired (unspecified) [9237],0,3
+193,Failure or refusal to comply with demand (alcohol) [9260],0,3
+194,Failure or refusal to comply with demand (alcohol and drugs) [9263],0,3
+195,Failure or refusal to comply with demand (drugs) [9265],0,3
+196,Failure or refusal to comply with demand (unspecified) [9267],0,3
+197,"Failure or refusal to comply with demand, accident resulting in bodily harm (alcohol) [9270]",0,3
+198,"Failure or refusal to comply with demand, accident resulting in bodily harm (alcohol and drugs) [9273]",0,3
+199,"Failure or refusal to comply with demand, accident resulting in bodily harm (drugs) [9275]",0,3
+200,"Failure or refusal to comply with demand, accident resulting in bodily harm (unspecified) [9277]",0,3
+201,"Failure or refusal to comply with demand, accident resulting in death (alcohol) [9280]",0,3
+202,"Failure or refusal to comply with demand, accident resulting in death (alcohol and drugs) [9283]",0,3
+203,"Failure or refusal to comply with demand, accident resulting in death (drugs) [9285]",0,3
+204,"Failure or refusal to comply with demand, accident resulting in death (unspecified) [9287]",0,3
+205,"Dangerous operation, causing death [9110]",0,2
+206,"Dangerous operation, causing bodily harm [9120]",1,2
+207,"Dangerous operation of motor vehicle, vessel or aircraft [9130]",0,2
+208,"Dangerous operation evading police, causing death [9131]",0,2
+209,"Dangerous operation evading police, causing bodily harm [9132]",0,2
+210,Dangerous operation of motor vehicle evading police [9133],0,2
+211,Total fail to stop or remain [930],0,7
+212,Driving while prohibited [9320],0,7
+213,Other Criminal Code traffic violations [9330],0,7
+214,Causing death by criminal negligence while street racing [9410],1,7
+215,Causing bodily harm by criminal negligence while street racing [9420],1,7
+216,Dangerous operation causing death while street racing [9430],0,7
+217,Dangerous operation causing bodily harm while street racing [9440],0,7
+218,Dangerous operation of motor vehicle while street racing [9450],0,7
+219,Youth Criminal Justice Act [6450],0,6
+220,Total other Federal Statutes [610],0,6
+221,Total Drug violations [401],0,3
+222,"Heroin, possession [4110]",0,3
+223,"Other Controlled Drugs and Substances Act, possession [4130]",1,3
+224,"Methamphetamines (crystal meth), possession [4150]",0,3
+225,"Methylenedioxyamphetamine (ecstasy), possession [4160]",0,3
+226,"Opioid (other than heroin), possession [4170]",0,3
+227,"Cannabis, trafficking (pre-legalization) [4240]",1,3
+228,"Cannabis, importation and exportation (pre-legalization) [4340]",1,3
+229,"Cannabis, production (pre-legalization) [4440]",1,3
+230,"Cocaine, trafficking [4220]",0,3
+231,"Cocaine, importation and exportation [4320]",0,3
+232,"Cocaine, production [4420]",0,3
+233,"Heroin, trafficking [4210]",0,3
+234,"Other Controlled Drugs and Substances Act, trafficking [4230]",1,3
+235,"Methamphetamines (crystal meth), trafficking [4250]",0,3
+236,"Methylenedioxyamphetamine (ecstasy), trafficking [4260]",0,3
+237,"Heroin, importation and exportation [4310]",0,3
+238,"Other Controlled Drugs and Substances Act, importation and exportation [4330]",1,3
+239,"Methamphetamines (crystal meth), importation and exportation [4350]",0,3
+240,"Methylenedioxyamphetamine (ecstasy), importation and exportation [4360]",0,3
+241,"Heroin, production [4410]",0,3
+242,"Other Controlled Drugs and Substances Act, production [4430]",1,3
+243,"Methamphetamines (crystal meth), production [4450]",0,3
+244,"Methylenedioxyamphetamine (ecstasy), production [4460]",0,3
+245,"Opioid (other than heroin), trafficking [4270]",0,3
+246,"Opioid (other than heroin), importation and exportation [4370]",0,3
+247,"Opioid (other than heroin), production [4470]",0,3
+248,Bankruptcy Act [6100],0,4
+249,Income Tax Act [6150],0,4
+250,Canada Shipping Act [6200],0,6
+251,Canada Health Act [6250],0,6
+252,Customs Act [6300],0,6
+253,Competition Act [6350],0,6
+254,Excise Act [6400],0,6
+255,Total Immigration and Refugee Protection Act [620],0,6
+256,Firearms Act [6550],0,2
+257,National Defence Act [6560],0,2
+258,Other federal statutes [6900],0,6
+259,Quarantine Act [6600],0,6
+260,Counterfeiting [3420],1,4
+261,Total weapons violations [310],0,2
+262,"Possession of, or accessing child pornography [3455]",1,8
+263,Total prostitution [320],0,8
+264,Disturb the peace [3430],1,6
+265,Total administration of justice violations [330],0,6
+266,Total other violations [340],0,
+267,"Making, or distribution of child pornography [3456]",1,8
+268,Forcible confinement or kidnapping [1510],1,2
+269,Kidnapping [1515],1,2
+270,Forcible confinement [1516],1,2
+271,"Possession, cannabis (pre-legalization) [4140]",1,3
+272,"Possession, cocaine [4120]",0,3
+273,"Total, possession, other Controlled Drugs and Substances Act drugs [410]",0,3
+274,"Total cannabis, trafficking, production or distribution (pre-legalization) [420]",0,3
+275,"Total cocaine, trafficking, production or distribution [430]",0,3
+276,"Total other Controlled Drugs and Substances Act drugs, trafficking, production or distribution [440]",0,3
+277,"Possession, sale, etc., for use in production of or trafficking in substance [4590]",0,3
+278,Total Cannabis Act [450],1,3
+279,Obtaining sexual services for consideration [1711],1,8
+280,Obtaining sexual services for consideration from person under the age of 18 years [1712],1,8
+281,Receive material benefit from sexual services [1721],1,8
+282,Receive material benefit from sexual services provided by person under the age of 18 years [1722],1,8
+283,Procuring [1731],0,8
+284,Procuring a person under the age of 18 years [1732],1,8
+285,Advertising sexual services [1740],0,3
+286,Total possession - Cannabis Act [451],0,3
+287,Total distribution - Cannabis Act [452],0,3
+288,Total sale - Cannabis Act [453],0,3
+289,Total importation and exportation - Cannabis Act [454],0,3
+290,Total production - Cannabis Act [455],1,3
+291,"Possess, produce, sell, distribute or import anything for use in production or distribution of illicit cannabis [4961]",1,3
+292,Use of young person in the commission of a cannabis offence [4971],1,3
+293,Other Cannabis Act [4981],0,3
+294,Possession of illicit or over 30g dried cannabis (or equivalent) by adult [4911],0,3
+295,Possession of over 5g dried cannabis (or equivalent) by youth [4912],0,3
+296,"Possession of budding or flowering plants, or more than four cannabis plants [4913]",0,3
+297,Possession of cannabis by organization [4914],0,3
+298,"Distribution to an organization, illicit or over 30g dried cannabis (or equivalent) by adult [4921]",0,3
+299,Distribution of cannabis to youth by adult [4922],0,3
+300,Distribution to an organization or over 5g dried cannabis (or equivalent) by youth [4923],0,3
+301,"Distribution of budding or flowering plants, or more than four cannabis plants [4924]",0,3
+302,Distribution of cannabis by organization [4925],0,3
+303,Possession of cannabis for purpose of distributing [4926],0,3
+304,Sale of cannabis to adult [4931],0,3
+305,Sale of cannabis to youth [4932],0,3
+306,Sale of cannabis to an organization [4933],0,3
+307,Possession of cannabis for purpose of selling [4934],0,3
+308,Importation and exportation of cannabis [4941],0,3
+309,Possession of cannabis for purpose of exportation [4942],0,3
+310,"Obtain, offer to obtain, alter or offer to alter cannabis [4951]",0,3
+311,"Cultivate, propagate or harvest cannabis by adult [4952]",0,3
+312,"Cultivate, propagate or harvest cannabis by youth or organization [4953]",0,
+,"Total, all violations [0]",,

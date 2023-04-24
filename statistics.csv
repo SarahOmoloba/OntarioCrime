@@ -1,0 +1,17 @@
+﻿statId,statistic
+1,Cleared by charge
+2,Cleared otherwise
+3,"Rate, total persons charged per 100,000 population aged 12 years and over"
+4,"Total, adult charged"
+5,"Rate, adult charged per 100,000 population aged 18 years and over"
+6,"Total, youth charged"
+7,"Rate, youth charged per 100,000 population aged 12 to 17 years"
+8,"Total, youth not charged"
+9,"Rate, youth not charged per 100,000 population aged 12 to 17 years"
+10,Unfounded incidents
+11,Percent unfounded
+12,Actual incidents
+13,"Rate per 100,000 population"
+14,Percentage change in rate
+15,Total cleared
+16,"Total, persons charged"
